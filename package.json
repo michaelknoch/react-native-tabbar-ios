@@ -1,7 +1,7 @@
 {
   "name": "react-native-tabbar-ios",
   "version": "1.0.0",
-  "description": "",
+  "description": "The React Native TabbariOS from version < 0.57",
   "main": "index.ios.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
